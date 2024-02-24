@@ -11,6 +11,6 @@
 Создать из строки JSON объект
 Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
 
-<img width="1800" alt="write" src="Lab2_2/write.png">
+<img width="1800" alt="write" src="Lab3_2/write.png">
 
-<img width="1800" alt="read" src="Lab2_2/read.png">
+<img width="1800" alt="read" src="Lab3_2/read.png">
